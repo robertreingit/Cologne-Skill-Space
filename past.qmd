@@ -4,7 +4,7 @@ title: "Past meetings"
 
 # Inaugural Meeting 03.06.2026
 
-The first meeting of the Cologne Skill Space was a full success. More than three people showed up and that doesn't include the organizers.
+The first meeting of the Cologne Skill Space was a full success. More than three people showed up and that didn't include the organizers.
 
 Following a general discussion about what the CSS could be, Dr. Albert Deuker held a presentation about Newell's famous constraints paper. After a dicussion about to what extent this framework is usefull as a scientific theory.
 
