@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "css"
+  navbar:
+    logo: logo_small.png
+    left:
+      - href: index.qmd
+        text: Home
+      - mission.qmd
+      - past.qmd
+      - future.qmd
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - simplex 
+      - brand
+    css: styles.css
+    toc: true
+
+
+
