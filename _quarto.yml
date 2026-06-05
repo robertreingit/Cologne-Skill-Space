@@ -2,6 +2,8 @@ project:
   type: website
   output-dir: docs
 
+bibliography: bibliography.bib
+
 website:
   title: "css"
   navbar:
@@ -12,6 +14,7 @@ website:
       - mission.qmd
       - past.qmd
       - future.qmd
+      - links.qmd
       - about.qmd
 
 format:

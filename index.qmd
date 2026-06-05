@@ -4,3 +4,5 @@ title: "Cologne Skill Space"
 
 Welcome to the pages of the Cologne Skill Space.
 
+![](css_logo_large.png){width=300}
+

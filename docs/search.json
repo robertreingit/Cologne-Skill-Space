@@ -4,7 +4,7 @@
     "href": "past.html",
     "title": "Past meetings",
     "section": "",
-    "text": "Inaugural Meeting 03.06.2026\nThe first meeting of the Cologne Skill Space was a full success. More than three people showed up and that doesn’t include the organizers.\nFollowing a general discussion about what the CSS could be, Dr. Albert Deuker held a presentation about Newell’s famous constraints paper. After a dicussion about to what extent this framework is usefull as a scientific theory.\nThe next meeting is scheduled for the … ."
+    "text": "The first meeting of the Cologne Skill Space was a full success. More than three people showed up and that didn’t include the organizers.\nFollowing a general discussion about what the CSS could be, Dr. Albert Deuker held a presentation about Newell’s famous constraints paper (Newell 1986). Afterwards a dicussion developed about to what extent this framework is actually usefull as a scientific theory.\nThe next meeting is scheduled for the … ."
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,33 @@
     "title": "Cologne Skill Space",
     "section": "",
     "text": "Welcome to the pages of the Cologne Skill Space."
+  },
+  {
+    "objectID": "mission.html",
+    "href": "mission.html",
+    "title": "Mission statement",
+    "section": "",
+    "text": "Provide a space to discuss problems, theory and practice\nEducate ourself about skill acquisition\nFoster collaborations across departments at the GSU\nMentorship for young academics at GSU\nResource sharing"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
+    "section": "",
+    "text": "Australasian Skill Acquisition Network (ASAA) Link\nMotor Skills Acquisition Conference (2027) Link"
+  },
+  {
+    "objectID": "links.html#organization",
+    "href": "links.html#organization",
+    "title": "Links",
+    "section": "",
+    "text": "Australasian Skill Acquisition Network (ASAA) Link"
+  },
+  {
+    "objectID": "links.html#conferences",
+    "href": "links.html#conferences",
+    "title": "Links",
+    "section": "Conferences",
+    "text": "Conferences\n\nMotor Skills Acquisition Conference (2027) Link"
   }
 ]
