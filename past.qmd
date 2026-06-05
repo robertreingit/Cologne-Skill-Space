@@ -8,6 +8,4 @@ The first meeting of the Cologne Skill Space was a full success. More than three
 
 Following a general discussion about what the CSS could be, Dr. Albert Deuker held a presentation about Newell's famous constraints paper [@newell1986constraints]. Afterwards a dicussion developed about to what extent this framework is actually usefull as a scientific theory.
 
-The next meeting is scheduled for the ... .
-
 ## References
